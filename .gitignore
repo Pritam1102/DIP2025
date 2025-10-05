@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# But allow tracking inside Project/
+!/Project/
+
+# Also allow .gitignore itself
+!.gitignore
