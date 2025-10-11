@@ -1,8 +1,8 @@
 # Ignore everything by default
 *
 
-# But allow tracking inside Project/
-!/Project/
+# Allow only assignment3 folder
+!/assignment3/
 
-# Also allow .gitignore itself
+# Allow this file itself
 !.gitignore
